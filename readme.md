@@ -1,0 +1,2 @@
+Create a WEB UI frontend for an application that you created for #1 using the React 19 framework, typescript and Ant Design. You should be able to create, show, search, delete records, run commands, view command output from your UI.
+Pay attention to usability and accessibility of your UI. It’s going to be the major factor in assessing the frontend part of the task.

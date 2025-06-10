@@ -1,0 +1,31 @@
+/* Remove default styles */
+.App {
+  text-align: center;
+}
+
+/* Add our custom styles */
+.ant-layout {
+  min-height: 100vh;
+}
+
+.ant-layout-header {
+  background: #fff;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ant-layout-sider {
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ant-layout-content {
+  margin: 24px;
+  padding: 24px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
